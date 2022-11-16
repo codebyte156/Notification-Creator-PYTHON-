@@ -76,3 +76,5 @@ but.place(x=170, y=230)
 t.resizable(0,0)
 t.mainloop()
 
+
+#You can also create your own GUI from this code, just edit the valuse given to the code
